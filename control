@@ -1,0 +1,9 @@
+Package: com.drewsdunne.ncip
+Name: NCIP
+Depends: firmware (>= 7.0), com.saurik.substrate.safemode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome widget for the notification center!
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Addons (NotificationCenter)
